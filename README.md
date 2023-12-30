@@ -1,8 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/64/6c/de/646cde32f908ad4290530252345c4fda.jpg)
+![MasterHead](https://i.pinimg.com/originals/64/6c/de/646cde32f908ad4290530252345c4fda.jpg)
 <h1 align="center">Hi 👋, I'm Kobby Boateng</h1>
 <h3 align="center">A passionate Software Engineer from Ghana</h3>
 <img align="right alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-- 🌱 I’m currently learning **web frameworks and UI/UX**
+- 🌱 I’m currently learning web frameworks and UI/UX
 
 - 📝 I regularly write articles on [https://medium.com/@kobbyboateng14](https://medium.com/@kobbyboateng14)
 
